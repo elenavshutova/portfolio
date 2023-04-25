@@ -24,7 +24,7 @@ smoke-тестирование,
 
 > <a href="https://elenashutovaqa.atlassian.net/l/cp/HZ2knkDe">Ссылка на проект</a>
 > <p> логин: lenka.kalenka@gmail.com </p>
-> <p> пароль: AQvPUPt2 </p>
+> <p> пароль: AQvPUPt2% </p>
  
  <p>Выводы (итоги):<p>
 <ol>
@@ -52,7 +52,7 @@ smoke-тестирование,
 
 >  <a href="https://elenashutovaqa.atlassian.net/l/cp/G0VJEWrH">Ссылка на проект</a>
 > <p> логин: lenka.kalenka@gmail.com </p>
-> <p> пароль: AQvPUPt2 </p>
+> <p> пароль: AQvPUPt2% </p>
  
  <p>Выводы (итоги):<p>
 <ol>
